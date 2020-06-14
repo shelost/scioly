@@ -1,1 +1,1 @@
-# scioly
+# Ithaca Science Olympiad
